@@ -173,7 +173,7 @@ CUSTOM_KERNEL_SUB_IMGSENSOR=hi704_yuv
 CUSTOM_KERNEL_SUB_LENS=dummy_lens
 
 # touch driver  need to report correct touch axes
-CUSTOM_KERNEL_TOUCHPANEL=GT9XX
+CUSTOM_KERNEL_TOUCHPANEL= ft5206 msg2133
 
 # Configuration for USB PHY
 CUSTOM_KERNEL_USB=mt6577
